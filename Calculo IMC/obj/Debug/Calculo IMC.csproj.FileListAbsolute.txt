@@ -1,0 +1,20 @@
+D:\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Aula 2\Calculo IMC\Calculo IMC\bin\Debug\Calculo IMC.exe.config
+D:\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Aula 2\Calculo IMC\Calculo IMC\bin\Debug\Calculo IMC.exe
+D:\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Aula 2\Calculo IMC\Calculo IMC\bin\Debug\Calculo IMC.pdb
+D:\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Aula 2\Calculo IMC\Calculo IMC\obj\Debug\Calculo IMC.csprojAssemblyReference.cache
+D:\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Aula 2\Calculo IMC\Calculo IMC\obj\Debug\Calculo_IMC.lblPeso.resources
+D:\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Aula 2\Calculo IMC\Calculo IMC\obj\Debug\Calculo_IMC.Properties.Resources.resources
+D:\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Aula 2\Calculo IMC\Calculo IMC\obj\Debug\Calculo IMC.csproj.GenerateResource.cache
+D:\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Aula 2\Calculo IMC\Calculo IMC\obj\Debug\Calculo IMC.csproj.CoreCompileInputs.cache
+D:\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Aula 2\Calculo IMC\Calculo IMC\obj\Debug\Calculo IMC.exe
+D:\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Aula 2\Calculo IMC\Calculo IMC\obj\Debug\Calculo IMC.pdb
+C:\Users\Pablo Victor\Documents\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Aula 2\Calculo IMC\Calculo IMC\bin\Debug\Calculo IMC.exe.config
+C:\Users\Pablo Victor\Documents\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Aula 2\Calculo IMC\Calculo IMC\bin\Debug\Calculo IMC.exe
+C:\Users\Pablo Victor\Documents\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Aula 2\Calculo IMC\Calculo IMC\bin\Debug\Calculo IMC.pdb
+C:\Users\Pablo Victor\Documents\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Aula 2\Calculo IMC\Calculo IMC\obj\Debug\Calculo IMC.csprojAssemblyReference.cache
+C:\Users\Pablo Victor\Documents\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Aula 2\Calculo IMC\Calculo IMC\obj\Debug\Calculo_IMC.lblPeso.resources
+C:\Users\Pablo Victor\Documents\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Aula 2\Calculo IMC\Calculo IMC\obj\Debug\Calculo_IMC.Properties.Resources.resources
+C:\Users\Pablo Victor\Documents\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Aula 2\Calculo IMC\Calculo IMC\obj\Debug\Calculo IMC.csproj.GenerateResource.cache
+C:\Users\Pablo Victor\Documents\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Aula 2\Calculo IMC\Calculo IMC\obj\Debug\Calculo IMC.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Victor\Documents\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Aula 2\Calculo IMC\Calculo IMC\obj\Debug\Calculo IMC.exe
+C:\Users\Pablo Victor\Documents\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Aula 2\Calculo IMC\Calculo IMC\obj\Debug\Calculo IMC.pdb
